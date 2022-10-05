@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @00663
-- 👀 I’m interested in c# and doing things in unity.
-- 🌱 I’m firt year student on university VUT in Brno, looking for some knowledge.
+- 👀 I’m interested in c#, c++ and doing things in Unreal Engine 5.
+- 🌱 I’m first year student on university Mendelu in Brno, looking for some knowledge.
 ㄟ( ▔, ▔ )ㄏ Try czech or english on me. 
 
 
